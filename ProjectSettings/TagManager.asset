@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - UIContainer
+  - OptionPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1644770363
+    locked: 0
+  - name: Platforms
+    uniqueID: 536175819
+    locked: 0
+  - name: Player
+    uniqueID: 3648132599
+    locked: 0
+  - name: Efects
+    uniqueID: 2910108711
+    locked: 0
+  - name: UI
+    uniqueID: 1550250627
+    locked: 0
